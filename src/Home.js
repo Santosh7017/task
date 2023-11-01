@@ -1,5 +1,5 @@
 import React from 'react'
-import Footer from './component/footer'
+import Footer from './component/Footer'
 // import Carousel from './component/carousel'
 import Banners from './component/Banner'
 
